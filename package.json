@@ -1,0 +1,22 @@
+{
+  "name": "dx-search",
+  "version": "0.0.1",
+  "description": "Diagnostics center search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purvitiwari/dx-search.git"
+  },
+  "author": "purvitiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purvitiwari/dx-search/issues"
+  },
+  "homepage": "https://github.com/purvitiwari/dx-search#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
