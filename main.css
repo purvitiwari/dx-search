@@ -1,0 +1,14 @@
+.main {
+  background-color: #E6E6FA;
+  text-align: center; }
+
+h1 {
+  font-size: 400%; }
+
+.header {
+  color: blue; }
+
+.search {
+  position: relative;
+  border: 2px;
+  border-radius: 5px; }
