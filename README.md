@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/purvitiwari/dx-search.svg?branch=master)](https://travis-ci.org/purvitiwari/dx-search)
 # Diagnostics Center Search 
 
 ## Synopsis
@@ -18,5 +19,5 @@ Search Diagnostic centers in a particular area that perform required tests.
 ```
 - Run the server
 ```bash
-	  node server.js
+	  npm start
 ```
