@@ -7,7 +7,7 @@ export function search(str) {
       .get('http://' + apiQuery.host + ':' + apiQuery.port + '/dxsearch')
       .query({city: str.city})
       .query({area: str.area})
-      // .query({test: str.test})
+      .query({test: str.test})
       .end((error, response) => {
         const data = JSON.parse(response.text);
         // console.log(data.result);
