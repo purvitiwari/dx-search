@@ -1,0 +1,22 @@
+.main {
+  background-color: #DBDBDB; }
+
+h1 {
+  font-size: 400%; }
+
+.header {
+  left: 0px;
+  top: 0 px; }
+
+.header-main {
+  color: #0000ff;
+  margin: auto;
+  width: 25%;
+  padding: 10px; }
+
+.search {
+  border: 2px;
+  border-radius: 5px;
+  margin: auto;
+  width: 15%;
+  padding: 10px; }
