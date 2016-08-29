@@ -4,6 +4,12 @@
 ## Synopsis
 Search Diagnostic centers in a particular area that perform required tests.
 
+## Tech (MERN Stack)
+  - ReactJS v15.3
+  - Node.js v6.3.1
+  - Express v4.14.0
+  - MariaDB v10.1.13
+
 ## Environment Setup
 - Clone Repository
 ```bash

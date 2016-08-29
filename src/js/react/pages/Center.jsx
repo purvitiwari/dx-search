@@ -1,7 +1,7 @@
 import React from 'react';
-import Search from './Search.jsx';
-import Header from './Header.jsx';
-import Description from './Description.jsx';
+import Search from '../components/Search.jsx';
+import Header from '../components/Header.jsx';
+import Description from '../components/Description.jsx';
 
 class Center extends React.Component {
   render() {
